@@ -3,6 +3,9 @@
     "publisher": "KellyLin",
     "displayName": "12d Syntax Highlight",
     "description": "Provides syntax highlighting for the 12d programming language",
+    "repository": {
+        "url": "https://github.com/kelly-lin/12d-syntax-highlight"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.43.0"
@@ -15,8 +18,7 @@
             {
                 "id": "12dpl",
                 "aliases": [
-                    "12dpl",
-                    "12dpl"
+                    "4dpl"
                 ],
                 "extensions": [
                     ".4dm .h"
